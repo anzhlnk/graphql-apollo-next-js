@@ -1,0 +1,17 @@
+{
+  "name": "graphql-apollo-next-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": "https://github.com/anzhlnk/graphql-apollo-next-js.git",
+  "author": "Hanna <anzhelenyuk@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^3.8.2",
+    "graphql": "^16.5.0",
+    "nodemon": "^2.0.16"
+  }
+}
